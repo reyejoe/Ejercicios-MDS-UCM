@@ -1,2 +1,2 @@
 # Ejercicios-MDS-UCM
-Ejercicios clase 02 2023-2024
+Ejercicios clase02 período 2023-2024
